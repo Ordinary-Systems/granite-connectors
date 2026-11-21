@@ -1,0 +1,15 @@
+{
+  "name": "granite",
+  "description": "Granite's official plugin for Claude: your document vault, in conversation.",
+  "owner": {
+    "name": "Granite",
+    "email": "hello@granite.co"
+  },
+  "plugins": [
+    {
+      "name": "granite",
+      "source": "./",
+      "description": "Search, read, file and organize the documents in your Granite vault from Claude."
+    }
+  ]
+}

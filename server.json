@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.granite/granite",
+  "title": "Granite",
+  "description": "Search, read, file and organize the documents in your Granite vault.",
+  "version": "1.0.0",
+  "websiteUrl": "https://granite.co",
+  "repository": {
+    "url": "https://github.com/Ordinary-Systems/granite-connectors",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Ordinary-Systems/granite-connectors/main/assets/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["1024x1024"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.granite.co/mcp"
+    }
+  ]
+}

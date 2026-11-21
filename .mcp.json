@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "granite": {
+      "type": "http",
+      "url": "https://api.granite.co/mcp"
+    }
+  }
+}

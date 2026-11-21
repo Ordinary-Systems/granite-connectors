@@ -1,0 +1,24 @@
+{
+  "name": "granite",
+  "displayName": "Granite",
+  "version": "1.0.0",
+  "description": "Search, read, file and organize the documents in your Granite vault from Claude: bills, tax forms, insurance policies, IDs, receipts and notes.",
+  "author": {
+    "name": "Granite",
+    "email": "hello@granite.co",
+    "url": "https://granite.co"
+  },
+  "homepage": "https://granite.co/docs/mcp",
+  "repository": "https://github.com/Ordinary-Systems/granite-connectors",
+  "license": "MIT",
+  "keywords": [
+    "documents",
+    "vault",
+    "paperwork",
+    "taxes",
+    "receipts",
+    "invoices",
+    "personal finance"
+  ],
+  "privacyPolicyUrl": "https://granite.co/privacy"
+}
