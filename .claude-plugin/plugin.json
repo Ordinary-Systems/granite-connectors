@@ -20,5 +20,8 @@
     "invoices",
     "personal finance"
   ],
-  "privacyPolicyUrl": "https://granite.co/privacy"
+  "privacyPolicyUrl": "https://granite.co/privacy",
+  "documentationUrl": "https://granite.co/docs/mcp",
+  "supportUrl": "mailto:hello@granite.co",
+  "termsOfServiceUrl": "https://granite.co/terms"
 }
